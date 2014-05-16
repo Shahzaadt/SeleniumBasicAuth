@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.0
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumBasicAuth", "SeleniumBasicAuth\SeleniumBasicAuth.csproj", "{4E7ACFA0-2A13-451C-ACCC-2CDBD73C8034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumBasicAuthTests", "SeleniumBasicAuthTests\SeleniumBasicAuthTests.csproj", "{F7A17D1F-FAA5-4481-B7D4-2838EE17E8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7ACFA0-2A13-451C-ACCC-2CDBD73C8034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7ACFA0-2A13-451C-ACCC-2CDBD73C8034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7ACFA0-2A13-451C-ACCC-2CDBD73C8034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7ACFA0-2A13-451C-ACCC-2CDBD73C8034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A17D1F-FAA5-4481-B7D4-2838EE17E8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A17D1F-FAA5-4481-B7D4-2838EE17E8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A17D1F-FAA5-4481-B7D4-2838EE17E8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A17D1F-FAA5-4481-B7D4-2838EE17E8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
